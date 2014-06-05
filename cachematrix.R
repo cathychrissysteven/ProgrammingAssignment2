@@ -1,14 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This program finds the inverse of a matrix and cashes it
+## 
 
-## Write a short comment describing this function
+## This function caches a matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## This function finds the inverse of the function
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
